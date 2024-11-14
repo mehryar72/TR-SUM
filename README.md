@@ -7,7 +7,7 @@ This repository contains the code for the paper titled **"Unsupervised Video Sum
 
 ## Overview
 
-The paper presents an approach for unsupervised video summarization, leveraging reinforcement learning combined with a trained evaluator. The model is designed to summarize videos in an unsupervised manner, improving upon traditional methods that require large amounts of labeled data.
+The paper presents an approach for unsupervised video summarization, leveraging reinforcement learning combined with a trained evaluator.
 
 ## Code Availability
 
