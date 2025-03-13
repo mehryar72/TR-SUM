@@ -3,7 +3,7 @@ Code for the paper: Unsupervised Video Summarization via Reinforcement Learning 
 
 # Unsupervised Video Summarization via Reinforcement Learning and a Trained Evaluator
 
-This repository contains the code for the paper titled **"Unsupervised Video Summarization via Reinforcement Learning and a Trained Evaluator"**.
+This repository contains the code for the paper titled **"Reinforcement Learning for Unsupervised Video Summarization with Reward Generator Training"**.
 
 ## Overview
 
