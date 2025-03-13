@@ -1,5 +1,5 @@
 # TR-SUM
-Code for the paper: Unsupervised Video Summarization via Reinforcement Learning and a Trained Evaluator
+Code for the paper: Reinforcement Learning for Unsupervised Video Summarization with Reward Generator Training
 
 # Unsupervised Video Summarization via Reinforcement Learning and a Trained Evaluator
 
